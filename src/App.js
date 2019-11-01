@@ -6,7 +6,7 @@ import SourceColors from './SourceColors'
 function App() {
   return (
     <div>
-      <Palette {...SourceColors[4]}/>
+      <Palette {...SourceColors[7]}/>
     </div>
   );
 }
